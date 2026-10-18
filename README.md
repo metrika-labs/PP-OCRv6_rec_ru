@@ -33,7 +33,7 @@ PP-OCRv6 Tiny: чир меняется быстро (score: 0.9082)<br>
 
 ## Ссылки
 
-Стандартные аугментации при обучении модели дополнялись собственным пайплайном.<br>
+Стандартные аугментации при обучении модели дополнялись собственным пайплайном: [vladlinv/Document-Augmentations](https://github.com/vladlinv/Document-Augmentations)
 
 Бенчмарк для проверки качества моделей: [vladlinv/ru-ocr-benchmark-hard](https://huggingface.co/datasets/vladlinv/ru-ocr-benchmark-hard)
 
